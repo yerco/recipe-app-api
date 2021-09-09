@@ -13,3 +13,5 @@ It does not allow python to buffer the output and prints it directly.
 ```bash
 % docker-compose build
 ```
+
+flake8 is a linting tool
